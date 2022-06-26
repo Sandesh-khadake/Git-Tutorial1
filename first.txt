@@ -1,0 +1,14 @@
+this is version 1 of my project
+i want this to go into coomit 2
+
+i want to changes this file to today..
+i will desing to better choise ....
+
+i want to change this file yesterday oky..
+
+multithreding is most imp in core java and oops concept and encapsulation and static  methods variabls constructors then jvm jit jdk then string collections java 8 features is also most imp in java...
+java is a programing language.java is a dynamic language. java is platform becouse it has own runtime environment that is jvm java virtual machin 
+a thread is a like a sparate program
+thread is a like a sparate program
+S
+
